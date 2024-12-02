@@ -1,4 +1,5 @@
 **Netflix Content Analysis Project**
+
 This project involves analyzing a Netflix dataset to uncover trends and patterns in the platform's offerings. The dataset contains information on Netflix titles, including movies and TV shows, along with details such as the genre, director, release year, rating, duration, country of origin, and more. The project explores:
 
 -Distribution of movies and TV shows by type and country
